@@ -3,4 +3,4 @@ Tengo 32 años.
 Todo bien
 Estoy a la expectativa con este curso.
 
-Aquí estamos, seguimos creando cambios para avanzar en el curso de git.
+Aquí estamos, seguimos creando cambios para avanzar en el curso de GIT.
