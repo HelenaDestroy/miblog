@@ -1,4 +1,6 @@
-Esta es la historia de cómo Jess pasó de ser Profesora de Filosofía a ser Programadora en menos de un año y con muchos vuelvos en su vida.
+Esta es la historia de cómo Jess pasó de ser Profesora de Filosofía a ser Programadora en menos de un año y con muchos vuelcos en su vida.
 Tengo 32 años.
 Todo bien
 Estoy a la expectativa con este curso.
+
+Aquí estamos, seguimos creando cambios para avanzar en el curso de git.
