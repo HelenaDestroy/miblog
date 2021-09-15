@@ -4,3 +4,6 @@ Todo bien
 Estoy a la expectativa con este curso.
 
 Aquí estamos, seguimos creando cambios para avanzar en el curso de GIT.
+
+Hola!  Soy pepita. Aquí estoy sumándome al repositorio de Helena! 
+Gracias! vuelva prontos!
